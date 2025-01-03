@@ -1,0 +1,821 @@
+[
+    {
+        "subtype": "bot_message",
+        "text": "Hey Hey <@U05MYF3UEQ5> <@U04JM757092>, A question from <@U0783AH8R42>:\n• Issue: missing USD inbound transfer\n• Feature: USD Account\/Custom FX\n• Dash Link: <https:\/\/dash.aspireapp.com\/businesses\/997254be-3a8e-46ab-8a3f-5a67716bcfb2\/show?section=debit&amp;entityUuid=99904313-3180-4d7b-be0f-71c933092707>\n• Ticket\/Chat Link: <https:\/\/app.intercom.com\/a\/inbox\/sa9uqfvk\/inbox\/admin\/7785674\/conversation\/40549?view=List>\n• Issue Description: The client transferred funds from Flip, amounting to USD 12.00, to their local USD account. If it is a local transfer, they need to wait 1-2 days. However, shouldn't the client use SWIFT account details instead to receive funds to their USD account?\nPlease help to solve this",
+        "username": "Issue Submit Form - Non Cards",
+        "type": "message",
+        "ts": "1735687026.505649",
+        "edited": {
+            "user": "B06D7BSUC0Z",
+            "ts": "1735694909.000000"
+        },
+        "bot_id": "B06D7BSUC0Z",
+        "app_id": "A06CUNC3J9G",
+        "trigger_id": "Ft06CUK1NSJX",
+        "thread_ts": "1735687026.505649",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1735695880.766979",
+        "reply_users": [
+            "U0783AH8R42",
+            "U05MYF3UEQ5",
+            "U04JM757092"
+        ],
+        "replies": [
+            {
+                "user": "U0783AH8R42",
+                "ts": "1735687046.302159"
+            },
+            {
+                "user": "U05MYF3UEQ5",
+                "ts": "1735695452.057519"
+            },
+            {
+                "user": "U05MYF3UEQ5",
+                "ts": "1735695496.295069"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695523.493489"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695529.022869"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695541.557709"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695559.262829"
+            },
+            {
+                "user": "U05MYF3UEQ5",
+                "ts": "1735695578.079449"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695625.199239"
+            },
+            {
+                "user": "U0783AH8R42",
+                "ts": "1735695862.685249"
+            },
+            {
+                "user": "U0783AH8R42",
+                "ts": "1735695880.727809"
+            },
+            {
+                "user": "U04JM757092",
+                "ts": "1735695880.766979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IkrEO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05MYF3UEQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04JM757092"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", A question from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0783AH8R42"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Issue: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "missing USD inbound transfer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Feature: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "USD Account\/Custom FX"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dash Link: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/dash.aspireapp.com\/businesses\/997254be-3a8e-46ab-8a3f-5a67716bcfb2\/show?section=debit&entityUuid=99904313-3180-4d7b-be0f-71c933092707"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ticket\/Chat Link: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/app.intercom.com\/a\/inbox\/sa9uqfvk\/inbox\/admin\/7785674\/conversation\/40549?view=List"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Issue Description: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "The client transferred funds from Flip, amounting to USD 12.00, to their local USD account. If it is a local transfer, they need to wait 1-2 days. However, shouldn't the client use SWIFT account details instead to receive funds to their USD account?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please help to solve this"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "hh33G",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "<@U05MYF3UEQ5> clicked *Checking*",
+                    "verbatim": false
+                }
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F08716LGAJG",
+                "created": 1735687035,
+                "timestamp": 1735687035,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0783AH8R42",
+                "user_team": "T7HALE3UN",
+                "editable": false,
+                "size": 934020,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F08716LGAJG\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F08716LGAJG\/download\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_64.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_80.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_360.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_480.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_160.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_720.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_720_w": 332,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_800.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1733,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_960.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F08716LGAJG-dd0cac058d\/image_1024.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2340,
+                "thumb_tiny": "AwAwABZO1HGRirscShASoOQOMU7Yn9wf9807mPs2UXXb0NNq5cxgRggc57Cqu0\/3T+VMiUbM06bgA9\/zoyNx5FKcGpOkAfbFLTVH0p1ACUZ9KM89KKAFopKKAP\/Z",
+                "permalink": "https:\/\/aspire-teamwork.slack.com\/files\/U0783AH8R42\/F08716LGAJG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T7HALE3UN-F08716LGAJG-e4561c4890",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F086J5B0NEB",
+                "created": 1735687042,
+                "timestamp": 1735687042,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0783AH8R42",
+                "user_team": "T7HALE3UN",
+                "editable": false,
+                "size": 136743,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F086J5B0NEB\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F086J5B0NEB\/download\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_64.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_80.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_360.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360_w": 360,
+                "thumb_360_h": 320,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_480.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_480_w": 480,
+                "thumb_480_h": 427,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_160.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_720.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_720_w": 720,
+                "thumb_720_h": 640,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086J5B0NEB-b6aedebb50\/image_800.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_800_w": 800,
+                "thumb_800_h": 711,
+                "original_w": 800,
+                "original_h": 711,
+                "thumb_tiny": "AwAqADC+d+4\/MBRiT+9Sn73vThmgdyP5s43inKCRyx\/Ck+XcacCOwNArhj3NLRRQA0tg\/dzRv\/2TQSM9KXAoATf\/ALJpcn+7+tNJGSMH86cvI6UAGT\/d\/WloooAQjnvSilooAj28k5pdvvT6KAGY9xTqWigD\/9k=",
+                "permalink": "https:\/\/aspire-teamwork.slack.com\/files\/U0783AH8R42\/F086J5B0NEB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T7HALE3UN-F086J5B0NEB-c8476dae4d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0783AH8R42",
+        "type": "message",
+        "ts": "1735687046.302159",
+        "client_msg_id": "1ba2599e-310a-4434-9bb2-fe970121f175",
+        "thread_ts": "1735687026.505649"
+    },
+    {
+        "user": "U05MYF3UEQ5",
+        "type": "message",
+        "ts": "1735695452.057519",
+        "client_msg_id": "d3ad8b15-7495-4d25-9f73-3d16468a4fda",
+        "text": "yes correct",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "60b7d69a295c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-28\/5804837867749_60b7d69a295c9ab6d3a5_72.jpg",
+            "first_name": "Agaputra",
+            "real_name": "Agaputra Awali",
+            "display_name": "Aga",
+            "team": "T7HALE3UN",
+            "name": "agaputra.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fkArr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05MYF3UEQ5",
+        "type": "message",
+        "ts": "1735695496.295069",
+        "client_msg_id": "423d80e7-bc74-485e-bfc1-31f7930ec2e9",
+        "text": "any concern from client?",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "60b7d69a295c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-28\/5804837867749_60b7d69a295c9ab6d3a5_72.jpg",
+            "first_name": "Agaputra",
+            "real_name": "Agaputra Awali",
+            "display_name": "Aga",
+            "team": "T7HALE3UN",
+            "name": "agaputra.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hf+cj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any concern from client?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695523.493489",
+        "edited": {
+            "user": "U04JM757092",
+            "ts": "1735695572.000000"
+        },
+        "client_msg_id": "163065ca-5c65-49cb-be5d-371f806d3f56",
+        "text": "Lokal bukan berati transfer lokal di indo ke akun indo dengan mata uang USD",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fT+ZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lokal bukan berati transfer lokal di indo ke akun indo dengan mata uang USD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695529.022869",
+        "client_msg_id": "029be171-637d-4cea-b3b3-b69038f35739",
+        "text": "Logic nya, local itu ya bank US",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SORTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Logic nya, local itu ya bank US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695541.557709",
+        "client_msg_id": "c50d0745-72b6-4436-ad23-8f4c28c44989",
+        "text": "Kalo dia dr flip, ya tulong lah pake SWIFT details",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aObnX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kalo dia dr flip, ya tulong lah pake SWIFT details"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695559.262829",
+        "client_msg_id": "b12f1389-06c6-4c56-89be-2f90fdbff47f",
+        "text": "Kemungkinan besar, dana balik.\nTp kurang tau baliknya utuh enggak",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zK76t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kemungkinan besar, dana balik.\nTp kurang tau baliknya utuh enggak"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05MYF3UEQ5",
+        "type": "message",
+        "ts": "1735695578.079449",
+        "client_msg_id": "838d1464-e26c-42a7-a69c-fb24d7dd872b",
+        "text": "yes betul, dan ini dia tf nya cuma 12 USD btw :disappointed:",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "60b7d69a295c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-28\/5804837867749_60b7d69a295c9ab6d3a5_72.jpg",
+            "first_name": "Agaputra",
+            "real_name": "Agaputra Awali",
+            "display_name": "Aga",
+            "team": "T7HALE3UN",
+            "name": "agaputra.a",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1cVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes betul, dan ini dia tf nya cuma 12 USD btw "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695625.199239",
+        "client_msg_id": "dbade18c-52d4-4868-94c8-1865a852f519",
+        "text": "Kalo dia swift. Paling kepotong juga buat bayar nerima SWIFT Fee. Tolong cek FAQ dulu ya. Jangan asbun ke client, aku lupa berkurangnya 15$ ato 8$",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBV\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kalo dia swift. Paling kepotong juga buat bayar nerima SWIFT Fee. Tolong cek FAQ dulu ya. Jangan asbun ke client, aku lupa berkurangnya 15$ ato 8$"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blob-check",
+                "users": [
+                    "U0783AH8R42"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "iya mba, mas. Klien nya kirim ke akun USD pakai local USD account detailnya. Jadi dana nya kemungkinan akan balik. Akan aku informasikan SLA sesuai FAQ ini terakit returned nya.",
+        "files": [
+            {
+                "id": "F086JANRZP1",
+                "created": 1735695718,
+                "timestamp": 1735695718,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0783AH8R42",
+                "user_team": "T7HALE3UN",
+                "editable": false,
+                "size": 53432,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F086JANRZP1\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T7HALE3UN-F086JANRZP1\/download\/image.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086JANRZP1-e4641823ec\/image_64.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086JANRZP1-e4641823ec\/image_80.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086JANRZP1-e4641823ec\/image_360.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_360_w": 360,
+                "thumb_360_h": 176,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086JANRZP1-e4641823ec\/image_480.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "thumb_480_w": 480,
+                "thumb_480_h": 235,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T7HALE3UN-F086JANRZP1-e4641823ec\/image_160.png?t=xoxe-255360479974-8262606857872-8242306878900-cdb39159e54f0d8dfe6ee3f9c2865383",
+                "original_w": 663,
+                "original_h": 325,
+                "thumb_tiny": "AwAXADDQ2+5\/76ox7n\/vqkx\/tD8qMf7Q\/KgBce5\/76pRkD\/E03H+0PypQB3P5CgB2T6D86ASew\/Om4X1NKoGeCfzoATI9BS49hTakHSgBu32FG32FOooAbg+gpefalooA\/\/Z",
+                "permalink": "https:\/\/aspire-teamwork.slack.com\/files\/U0783AH8R42\/F086JANRZP1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T7HALE3UN-F086JANRZP1-dfbd59a08f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0783AH8R42",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftUMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "iya mba, mas. Klien nya kirim ke akun USD pakai local USD account detailnya. Jadi dana nya kemungkinan akan balik. Akan aku informasikan SLA sesuai FAQ ini terakit returned nya."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1735695862.685249",
+        "client_msg_id": "8cc16c1e-0301-4fc0-a030-7125fc06ebaf",
+        "thread_ts": "1735687026.505649",
+        "reactions": [
+            {
+                "name": "yes-navi",
+                "users": [
+                    "U05MYF3UEQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0783AH8R42",
+        "type": "message",
+        "ts": "1735695880.727809",
+        "client_msg_id": "72ee5db1-ac06-490d-98d6-43658f3403d1",
+        "text": "makasih mba, mas :pray:",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "c55d609821b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-06\/7697540167281_c55d609821b9ad495090_72.jpg",
+            "first_name": "Tiara",
+            "real_name": "Tiara Rahmaddhani",
+            "display_name": "Tiara-w",
+            "team": "T7HALE3UN",
+            "name": "rahmaddhani.tiara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "656fl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "makasih mba, mas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04JM757092",
+        "type": "message",
+        "ts": "1735695880.766979",
+        "client_msg_id": "95b634d5-8548-438e-b5c0-abfdbf1e821a",
+        "text": "Please do",
+        "team": "T7HALE3UN",
+        "user_team": "T7HALE3UN",
+        "source_team": "T7HALE3UN",
+        "user_profile": {
+            "avatar_hash": "4159abb3bb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-16\/4646338724754_4159abb3bb941b6c724e_72.jpg",
+            "first_name": "Devandira",
+            "real_name": "Devandira Putri",
+            "display_name": "Deva",
+            "team": "T7HALE3UN",
+            "name": "devandira.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735687026.505649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e7Nzi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blob-check",
+                "users": [
+                    "U0783AH8R42"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
